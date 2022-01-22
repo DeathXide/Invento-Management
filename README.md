@@ -7,8 +7,8 @@ This site generates all the necessary reports and keep tracks of all goods.
 
 # Technical Details
 
-This web site is built using Bootstrap and Node.js 
-Databased used here is MongoDB connected using the mongoose driver
+This web site is built using Bootstrap and Node.js .
+Database used here is MongoDB connected using the mongoose driver.
 Ejs6 is used for dynamic loading of data into the site.
 Encryption is used for the data being posted from the login Page.
 
