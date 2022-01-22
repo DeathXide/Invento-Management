@@ -20,3 +20,9 @@ run "npm -i"
 ng serve
 
 Run the app.js and the server is running
+
+
+# Userdetail
+
+Username - admin  
+Password - password
