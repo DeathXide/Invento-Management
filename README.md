@@ -5,7 +5,7 @@ Customers can access the using their particular user details.
 This site generates all the necessary reports and keep tracks of all goods.
 
 
-#Technical Details
+# Technical Details
 
 This web site is built using Bootstrap and Node.js 
 Databased used here is MongoDB connected using the mongoose driver
